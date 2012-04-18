@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4 (0x4)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CH, ST=GE, L=Geneve, O=vpn, OU=changeme, CN=betemes.dyndns.info/name=betems/emailAddress=phd@unetc.org
+        Validity
+            Not Before: Mar 15 21:23:25 2012 GMT
+            Not After : Mar 13 21:23:25 2022 GMT
+        Subject: C=CH, ST=GE, L=Geneve, O=vpn, OU=changeme, CN=ersterclient/name=changeme/emailAddress=phd@unetc.org
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c4:bb:b5:6f:1e:69:36:df:00:db:c7:58:a6:4b:
+                    f9:82:9a:08:e1:40:27:78:f5:a1:63:d7:3b:f8:8f:
+                    a9:ad:90:29:a7:07:b1:8c:33:30:62:ba:ec:3a:cf:
+                    ad:4b:69:6a:71:37:93:e3:20:22:db:50:cd:bc:72:
+                    b3:ab:f0:a5:89:e4:67:86:d5:c1:9e:65:0e:8d:2b:
+                    db:da:a1:f7:43:54:f0:4f:1b:e9:41:08:38:a3:56:
+                    4e:99:47:a7:93:a1:29:06:77:2c:2a:61:b6:53:0d:
+                    34:bf:04:b2:f7:24:34:b0:2a:2c:37:59:e3:66:e8:
+                    27:e0:ba:4c:88:43:63:70:af
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                AE:3D:5F:9E:FA:05:35:CC:C0:80:D1:44:FB:17:B9:03:8B:63:74:BD
+            X509v3 Authority Key Identifier: 
+                keyid:6E:B3:E0:68:96:F7:1D:35:B0:BE:4B:58:03:EC:4D:7C:E7:5C:D2:73
+                DirName:/C=CH/ST=GE/L=Geneve/O=vpn/OU=changeme/CN=betemes.dyndns.info/name=betems/emailAddress=phd@unetc.org
+                serial:FA:DD:98:4E:DA:83:3D:11
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+        09:a2:f3:60:86:dc:45:98:a6:3c:7a:3f:c0:1b:37:81:cb:c7:
+        1e:34:73:d1:d7:65:5a:56:ed:fb:76:a8:6a:ac:86:19:bd:42:
+        ec:ca:70:4b:c2:36:c4:a2:64:e5:06:79:df:11:09:36:b6:86:
+        7e:f1:67:5a:4a:d1:71:66:de:3d:85:82:5e:f3:44:b8:a3:e5:
+        51:67:e5:3f:02:6f:75:fb:e3:81:53:bf:5b:2d:8c:ef:c6:00:
+        1d:17:12:d5:ad:eb:9e:7d:8a:e2:6d:6b:b2:d7:00:7a:c5:bd:
+        8e:57:8b:b5:56:b5:1e:46:22:85:d6:d6:30:bd:35:ce:37:40:
+        0f:45
+-----BEGIN CERTIFICATE-----
+MIID9zCCA2CgAwIBAgIBBDANBgkqhkiG9w0BAQUFADCBmTELMAkGA1UEBhMCQ0gx
+CzAJBgNVBAgTAkdFMQ8wDQYDVQQHEwZHZW5ldmUxDDAKBgNVBAoTA3ZwbjERMA8G
+A1UECxMIY2hhbmdlbWUxHDAaBgNVBAMTE2JldGVtZXMuZHluZG5zLmluZm8xDzAN
+BgNVBCkTBmJldGVtczEcMBoGCSqGSIb3DQEJARYNcGhkQHVuZXRjLm9yZzAeFw0x
+MjAzMTUyMTIzMjVaFw0yMjAzMTMyMTIzMjVaMIGUMQswCQYDVQQGEwJDSDELMAkG
+A1UECBMCR0UxDzANBgNVBAcTBkdlbmV2ZTEMMAoGA1UEChMDdnBuMREwDwYDVQQL
+EwhjaGFuZ2VtZTEVMBMGA1UEAxMMZXJzdGVyY2xpZW50MREwDwYDVQQpEwhjaGFu
+Z2VtZTEcMBoGCSqGSIb3DQEJARYNcGhkQHVuZXRjLm9yZzCBnzANBgkqhkiG9w0B
+AQEFAAOBjQAwgYkCgYEAxLu1bx5pNt8A28dYpkv5gpoI4UAnePWhY9c7+I+prZAp
+pwexjDMwYrrsOs+tS2lqcTeT4yAi21DNvHKzq/ClieRnhtXBnmUOjSvb2qH3Q1Tw
+TxvpQQg4o1ZOmUenk6EpBncsKmG2Uw00vwSy9yQ0sCosN1njZugn4LpMiENjcK8C
+AwEAAaOCAVAwggFMMAkGA1UdEwQCMAAwLQYJYIZIAYb4QgENBCAWHkVhc3ktUlNB
+IEdlbmVyYXRlZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUrj1fnvoFNczAgNFE+xe5
+A4tjdL0wgc4GA1UdIwSBxjCBw4AUbrPgaJb3HTWwvktYA+xNfOdc0nOhgZ+kgZww
+gZkxCzAJBgNVBAYTAkNIMQswCQYDVQQIEwJHRTEPMA0GA1UEBxMGR2VuZXZlMQww
+CgYDVQQKEwN2cG4xETAPBgNVBAsTCGNoYW5nZW1lMRwwGgYDVQQDExNiZXRlbWVz
+LmR5bmRucy5pbmZvMQ8wDQYDVQQpEwZiZXRlbXMxHDAaBgkqhkiG9w0BCQEWDXBo
+ZEB1bmV0Yy5vcmeCCQD63ZhO2oM9ETATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNV
+HQ8EBAMCB4AwDQYJKoZIhvcNAQEFBQADgYEACaLzYIbcRZimPHo/wBs3gcvHHjRz
+0ddlWlbt+3aoaqyGGb1C7MpwS8I2xKJk5QZ53xEJNraGfvFnWkrRcWbePYWCXvNE
+uKPlUWflPwJvdfvjgVO/Wy2M78YAHRcS1a3rnn2K4m1rstcAesW9jleLtVa1HkYi
+hdbWML01zjdAD0U=
+-----END CERTIFICATE-----
